@@ -27,7 +27,7 @@ Educated at Data Structures, Object-Oriented Programming, ,C#, C++ ,C and Javasc
 🏅 Certificates: (studing after school hours)
 
 <p aligment="center">
-    <img src="imgs/c#23start.jpg" alt="CSharp funddamentals" width="288" height="214"/>&nbsp;
+    <img src="imgs/c%23start.jpg" alt="CSharp funddamentals" width="288" height="214"/>&nbsp;
     <img src="imgs/c%23inter.jpg" alt="CSharp Intermediate" width="288" height="214"/>&nbsp;
   </p>
   
