@@ -37,12 +37,12 @@ Educated at Data Structures, Object-Oriented Programming, ,C#, C++ ,C and Javasc
 
 
 <div class="row">
-  <div class="column" width: 50%;>
+  <div class="column" width: 50%>
     <p>
      Feel free to connect through this profile, or through Linkedin:
     </p>
   </div>
-  <div class="column" width: 50%;>
+  <div class="column" width: 50%>
     <p>
   <a href="https://www.linkedin.com/in/maor-halevi-a12236173/"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
     </p>      
