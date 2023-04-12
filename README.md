@@ -35,12 +35,17 @@ Educated at Data Structures, Object-Oriented Programming, ,C#, C++ ,C and Javasc
 
 ### 📬 Feel free to contact me:
 
-<p position: relative>
-Feel free to connect through this profile, or
-through Linkedin:
-</p>
 
-<p>
+<div class="row">
+  <div class="column">
+    <p>
+     Feel free to connect through this profile, or through Linkedin:
+    </p>
+  </div>
+  <div class="column">
+    <p>
   <a href="https://www.linkedin.com/in/maor-halevi-a12236173/"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
-</p>                                                                                                                                                                        
+    </p>      
+  </div>
+</div>                       
 <!--
