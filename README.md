@@ -24,7 +24,8 @@ Educated at Data Structures, Object-Oriented Programming, ,C#, C++ ,C and Javasc
 | Operating System | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)                                                                       
 ---
 
-### 💯 Certificates: (studing after school hours)
+### <a href="https://www.flaticon.com/free-icons/certificate" title="certificate icons">Certificate icons created by Freepik - Flaticon</a>
+ Certificates: (studing after school hours)
 
 <p aligment="center">
     <img src="imgs/c#start.jpg" alt="CSharp funddamentals" width="288" height="214"/>&nbsp;
@@ -35,13 +36,12 @@ Educated at Data Structures, Object-Oriented Programming, ,C#, C++ ,C and Javasc
 
 ### 📬 Feel free to contact me:
 
-<p>
-Feel free to connect through this profile, via email or
-through the social network:
+<p position: relative>
+Feel free to connect through this profile, or
+through Linkedin:
 </p>
 
 <p>
   <a href="https://www.linkedin.com/in/maor-halevi-a12236173/"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
-  <a href="mailto:maorhalevi@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Mail-EA4335?logo=Gmail&logoColor=white&style=for-the-badge" /></a>
 </p>                                                                                                                                                                        
 <!--
