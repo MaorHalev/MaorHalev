@@ -42,6 +42,6 @@ through the social network:
 
 <p>
   <a href="https://www.linkedin.com/in/maor-halevi-a12236173/"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
-  <a href="maorhalevi@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Mail-EA4335?logo=Gmail&logoColor=white&style=for-the-badge" /></a>
+  <a href="mailto:maorhalevi@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Mail-EA4335?logo=Gmail&logoColor=white&style=for-the-badge" /></a>
 </p>                                                                                                                                                                        
 <!--
