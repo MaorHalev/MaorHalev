@@ -1,4 +1,4 @@
-<p align="center">
+<p aligment="center">
   
 </p>
 
@@ -26,7 +26,7 @@ Educated at Data Structures, Object-Oriented Programming, ,C#, C++ ,C and Javasc
 
 ### 💯 Certificates: (studing after school hours)
 
-<p align="center">
+<p aligment="center">
     <img src="imgs/c#start.jpg" alt="CSharp funddamentals" width="288" height="214"/>&nbsp;
     <img src="imgs/c#inter.jpg" alt="CSharp Intermediate" width="288" height="214"/>&nbsp;
   </p>
