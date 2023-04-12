@@ -24,7 +24,7 @@ Educated at Data Structures, Object-Oriented Programming, ,C#, C++ ,C and Javasc
 | Operating System | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)                                                                       
 ---
 
-🏅 Certificates: (studing after school hours)
+🏅 Certificates:
 
 <p aligment="center">
     <img src="imgs/c%23start.jpg" alt="CSharp funddamentals" width="288" height="214"/>&nbsp;
