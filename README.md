@@ -1,7 +1,7 @@
 <p align="center">
   
 </p>
-<img src="https://github.com/dore96/dore96/blob/main/introGif.gif" alt="intro gif" title="intro gif" width="500" height="250" align="center"/>
+
 
 Hi there!
 My name is Maor Halevi, 
