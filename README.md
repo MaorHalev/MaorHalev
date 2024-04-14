@@ -5,10 +5,10 @@
 
 Hi there!
 My name is Maor Halevi, 
-I am a 2nd year Computer Science B.Sc. student in the Academic College of Tel Aviv-Yafo.
+I am a 3rd year Computer Science B.Sc. student in the Academic College of Tel Aviv-Yafo.
 Passionate for complex problem solving and the development of high-quality code.
 A self-learner with a desire to tackle technological challenges,
-Educated at Data Structures, Object-Oriented Programming, ,C#, C++ ,C and Javascript.
+Educated at Data Structures, Object-Oriented Programming, ,C#, C++ and C Programming language.
 
 ---
 
